@@ -3,7 +3,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-image: url(valorantbg1edit.jpg);
+    background-image: url('../img/valorantbg1edit.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'VALORANT', sans-serif;
