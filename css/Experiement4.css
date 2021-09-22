@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+header{
+    background:rgb(238, 58, 58);
+    padding: 5px;
+}
+.header-container{
+    background: rgb(213, 158, 158);
+    display: flex;
+    justify-content: space-between;
+}
+.header-list{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+
+}
+.listitems{
+    margin-right: 10px;
+    font-size:20px;
+}
