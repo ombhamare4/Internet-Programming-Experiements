@@ -1,0 +1,3 @@
+$(function () {
+    $("#name").fadeIn("slow");
+});
